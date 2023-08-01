@@ -39,7 +39,7 @@ className='flex-1 bg-about bg-contain bg-no-repeat h-[640px] mix-blend-lighten b
     <h3 className='h3 mb-4'>I'm Davi Tavares, a freelance developer with 2 years of experience in both front-end and back-end development</h3>
 
     <p className='mb-6'>
-    I completed my technical course in computer science in 2023, providing me with a strong foundation in the field.
+    I completed my technical course in Computer Technician in 2023, providing me with a strong foundation in the field.
 
 My passion for web development has driven me to enhance my skills in languages such as HTML, CSS, JavaScript, as well as popular frameworks like React and Angular. As a front-end developer, I excel at creating visually appealing and user-friendly interfaces.
 

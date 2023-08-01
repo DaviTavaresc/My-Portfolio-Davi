@@ -1,5 +1,5 @@
 import React from 'react';
-import Image from "../assets/davi4-removebg.png";
+import Image from "../assets/foto 1.jpg";
 import {FaGithub,FaInstagram,FaLinkedin} from 'react-icons/fa'
 import { TypeAnimation } from 'react-type-animation';
 import { motion } from 'framer-motion';
@@ -67,7 +67,8 @@ font-semibold uppercase lead-[1]'>
 
 
 </motion.div>
-
+<br/>
+<br/>
 <motion.div  variants={fadeIn('down',0.5)} initial='hidden' whileInView={'show'} viewport={{once: false,amount:0.7}} className='hidden lg:flex flex-1 max-w-[320px] lg:max-w-[482px] '>
 
   <img src={Image} alt=''/>
